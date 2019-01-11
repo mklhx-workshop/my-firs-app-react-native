@@ -7,7 +7,10 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@babel/core": "^7.2.2",
     "expo": "^32.0.0",
+    "expo-task-manager-interface": "~1.0.0",
+    "prop-types": "15.6.0",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-sensors": "^5.1.5"
